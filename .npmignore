@@ -1,0 +1,6 @@
+.idea
+src
+docker-compose.yml
+Dockerfile
+logs
+tsconfig.json
