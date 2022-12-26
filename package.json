@@ -1,8 +1,11 @@
 {
   "name": "@node-modz/lib-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Core Library to initialize any Node API Server",
   "main": "./dist/index.js",
+  "scripts": {
+    "build": "npm install && tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/node-modz/lib-core.git"
